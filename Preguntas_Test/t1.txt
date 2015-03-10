@@ -1,0 +1,13 @@
+1-¿Qué opción más rápida y barata para el desarrollo de un sitio web?
+	a) Instalar todos los servicios en una sola máquina
+	b) Crearse una Granja Web
+	c) A y B son correctas
+	d) Ninguna es correcta
+ Respuesta correcta: A
+ 
+ 2-¿La estructura general para montar una granja web que escale correctamente sería?
+	a) Base De Datos + Web
+	b) Servidor de desarrollo + Web + Base de datos
+	c) Correo + Web + Base de datos
+	d) Base de datos + Web + Mantenimiento + Refrigeración
+ Respuesta correcta: C

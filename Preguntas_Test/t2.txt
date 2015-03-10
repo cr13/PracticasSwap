@@ -1,0 +1,15 @@
+1- El diseño debe tener redundancia a todos los niveles:
+	a) Conexión a Internet
+	b) Routers/cortafuegos/balanceadores
+	c) Servidores
+	d) Todas las anteriores
+	
+Respuesta correcta: D
+
+2- ¿Cuantos tipos de escalabilidad existen?
+	a) 3
+	b) 2
+	c) 5
+	d) 4
+
+Respuesta correcta: B
