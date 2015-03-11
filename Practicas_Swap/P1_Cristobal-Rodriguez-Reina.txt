@@ -1,4 +1,4 @@
-Maquina 1 : 
+Máquina 1 : 
 
 IP:192.168.2.108
 
@@ -16,5 +16,22 @@ www-data  1840  0.0  0.3  34068  3764 ?        S    11:13   0:00 /usr/sbin/apach
 cr13      3167  0.0  0.0   5628   836 pts/1    D+   11:18   0:00 grep --color=auto apache
 
 
-Maquina 2:
+Máquina 2:
 
+IP:192.168.2.110
+
+cristobal@ubuntuServer2:~$ apache2 -v
+Server version: Apache/2.2.22 (Ubuntu)
+Server built:   Mar  5 2015 18:10:11
+
+cristobal@ubuntuServer2:~$ ps aux | grep apache
+root      1230  0.0  0.6  34048  6992 ?        Ss   11:51   0:00 /usr/sbin/apache2 -k start
+www-data  1247  0.0  0.3  34088  4004 ?        S    11:51   0:00 /usr/sbin/apache2 -k start
+www-data  1248  0.0  0.4  34516  4704 ?        S    11:51   0:00 /usr/sbin/apache2 -k start
+www-data  1249  0.0  0.4  34516  4616 ?        S    11:51   0:00 /usr/sbin/apache2 -k start
+www-data  1251  0.0  0.3  34072  3764 ?        S    11:51   0:00 /usr/sbin/apache2 -k start
+www-data  1252  0.0  0.3  34072  3764 ?        S    11:51   0:00 /usr/sbin/apache2 -k start
+www-data  1972  0.0  0.3  34072  3764 ?        S    12:04   0:00 /usr/sbin/apache2 -k start
+www-data  1973  0.0  0.3  34072  3764 ?        S    12:04   0:00 /usr/sbin/apache2 -k start
+www-data  1974  0.0  0.3  34072  3764 ?        S    12:04   0:00 /usr/sbin/apache2 -k start
+1000      2044  0.0  0.0   4404   840 tty1     S+   12:10   0:00 grep --color=auto apache
