@@ -1,4 +1,5 @@
-Práctica 2:
+Práctica 2:Realizada por Cristobal Rodriguez Reina y Javier Castillo Palomo
+
 Para realizar la práctica con mi compañero tenemos cada uno una máquina virtual conectada por la misma red, siendo la máquina secundaria la del compañero.
 
 Ejercicio 1:
