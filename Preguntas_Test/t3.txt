@@ -1,0 +1,15 @@
+1- Elige la respuesta correcta sobre configuracion segura
+	a) Sin DMZ, todos los recursos se comparten (ancho de banda y acceso a Internet)
+	b) Sin DMZ, se comparten la mitad de recursos(ancho de banda)
+	c) Todas son falsas
+	d) Sin DMZ, sólo tiene sentido en empresas grandes
+	
+Respuesta correcta: A
+
+2- Los servidores conectados a la subred trasera son accesibles desde:
+	a) subredes seguras
+	b) subredes inseguras pero controladas
+	c) subredes seguras y controladas
+	d) servidores sin multi-NIC
+
+Respuesta correcta: C

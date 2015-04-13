@@ -1,0 +1,15 @@
+1- ¿Qué algoritmo no se utiliza para el de balanceo de carga?
+	a) balanceo basado en tiempo de respuesta
+	b) balanceo basado en el menor número de conexiones
+	c) balanceo basado en FIFO
+	d) combinación de los algoritmos de tiempo de respuesta y menor número de conexiones
+	
+Respuesta correcta: C
+
+2- Selecciona la respuesta correcta sobre una Granja web con balanceo de carga:
+	a) Mantenimiento complejo
+	b) Mejora la seguridad y Mejora la escalabilidad
+	c) El usuario recibe del DNS la IP privada del balanceador
+	d) Todo el conjunto de servidores aparece como dos solos sistemas
+
+Respuesta correcta: B
