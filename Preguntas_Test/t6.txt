@@ -1,0 +1,15 @@
+1- ¿Cuál de estas respuestas es la posibilidades de los procedimientos de autenticación menos efectiva?
+	a) Un PIN o una clave.
+	b) Una tarjeta física que incluirá la clave
+	c) huella dactilar o ADN 
+	d) Un escáner de retina
+
+Respuesta correcta: A
+
+2- Para asegurar un servidor a de tomar acciones...
+	a) Eliminar los drivers de red que se usen poco.
+	b) Usar filtros TCP/IP
+	c) Una vez que el servidor ha sido montado y configurado por primera vez, no hacen cambios de configuración.
+	d) Mantener un equipo de seguridad anualmente sobre nuevos agujeros de seguridad, parches de seguridad y ataques.
+	
+Respuesta correcta: B	
