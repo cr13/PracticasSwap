@@ -1,0 +1,15 @@
+2- La métrica más importante del patrón de trafico HTTP es:
+	a) Total de conexiones concurrentes.
+	b) Conexiones por segundo.
+	c) El rendimiento.
+	d) Todas son correctas.
+
+Respuesta correcta: B
+
+2- Cuando vamos a evaluar el rendimiento de un sitio web
+	a) Fijar un número alto de usuarios.
+	b) Calcular el tiempo medio cuando hay un bajo número de usuarios haciendo peticiones al sitio web.
+	c) a y d son correctas.
+	d) Evaluar cómo se comporta el servidor cuanto tiene el doble de usuarios.
+
+Respuesta correcta: C
